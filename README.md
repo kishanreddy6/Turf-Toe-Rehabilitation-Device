@@ -1,6 +1,6 @@
 # Turf-Toe-Rehabilitation-Device
 
-This project is part of the course requirements of ROB-GY 6413, Robot for Disability, at NYU which was demonstarated along with my fellow Teammates Archit Sharma and Konishjit Bedi.
+This project is part of the course requirements of ROB-GY 6413, Robot for Disability, at NYU which was demonstarated along with my fellow teammates Archit Sharma and Konishjit Bedi.
 
 American football is not only one of the most popular sports in the United States, but also one of the most physically intensive and involves repetitive high-intensity
 actions, and immense physical collisions. Although often associated with American football, Turf Toe occurs primarily in athletic environments, such as when an athlete
